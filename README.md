@@ -1,6 +1,7 @@
 # Full-Stack-AI-Agent-course-with-inngest-and-Gemini
 Full Stack AI Agent course with inngest and Gemini
 ----------------------------------------------
+~
 universal-research-assistant/
 ├── app/                     ← Next.js Chat UI
 ├── inngest/                 ← Event workflows (e.g., summarize, cite)
@@ -13,3 +14,4 @@ universal-research-assistant/
 ├── package.json             ← NPM dependencies
 └── vercel.json              ← (Optional) for deployment
 
+~
